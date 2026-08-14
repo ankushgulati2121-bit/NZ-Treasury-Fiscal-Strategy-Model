@@ -25,11 +25,17 @@ Evaluating new budget spending solely on immediate cash impacts obscures the lon
 
 ## Visualizations
 
-### OBEGAL Trajectories & Operating Allowance Scenarios
-![OBEGAL Trajectories](images/obegal_scenarios.png)
+### 1. OBEGAL Trajectories & Operating Allowance Scenarios
+<img width="1492" height="525" alt="obegal_scenarios" src="https://github.com/user-attachments/assets/1b90b255-7413-4a14-b80c-2b5068c4155f" />
 
-### Stochastic Debt Sustainability Analysis (S-DSA)
-![S-DSA Fan Chart](images/monte_carlo_fan_chart.png)
+
+### 2. Net Core Crown Debt vs. Target Ceiling
+<img width="1492" height="525" alt="debt_trajectory" src="https://github.com/user-attachments/assets/13c768ec-140d-4ebc-8f6e-69856d2dd636" />
+
+
+### 3. Stochastic Debt Sustainability Analysis (S-DSA)
+<img width="1492" height="525" alt="monte_carlo_fan_chart" src="https://github.com/user-attachments/assets/c1f3508f-b0b8-4f96-8fef-46236153d126" />
+
 
 ---
 
